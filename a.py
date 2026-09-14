@@ -6,7 +6,7 @@ from discord.ext import commands
 # CONFIG
 # =========================================================
 
-TOKEN = ""
+TOKEN = "MTU0ODk3MTIwNjA1NTY5ODQ3Mg.Gtqyoj.C_Bjlp8tKheU6DD0XxLZQFPwVQltHYra05qfM4"
 
 TICKET_CATEGORY_ID = 1533481557602340914
 STAFF_ROLE_ID = 1549146970847711295
